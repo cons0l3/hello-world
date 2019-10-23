@@ -1,0 +1,7 @@
+md5: 7de5d6ac532e9067492df0b28a280d88
+outs:
+- md5: 444b9e1ae3db1067d2bf2effa132f3bb
+  path: partner.csv
+  cache: true
+  metric: false
+  persist: false
