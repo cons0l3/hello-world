@@ -108,5 +108,6 @@ venv.bak/
 .bash_logout
 .config/
 .jupyter/
+.ipython/
 .local/
 .gitconfig
